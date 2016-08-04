@@ -1,0 +1,29 @@
+_repo: Our-American-Cousin_3158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Tom
+    alias: Taylor, Thomas Proclus
+    birthdate: 1817
+    deathdate: 1880
+    gutenberg_agent_id: '1124'
+    url: http://www.gutenberg.org/2009/agents/1124
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Taylor
+description: 'Note of interest: This was the play Abraham Lincoln was watching when
+  he was assassinated.'
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Americans -- England -- Drama'
+- !lcsh 'Aristocracy (Social class) -- England -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: Our American Cousin
+url: http://www.gutenberg.org/ebooks/3158
