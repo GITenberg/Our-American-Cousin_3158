@@ -1,5 +1,8 @@
 _repo: Our-American-Cousin_3158
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Taylor, Tom
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Tom_Taylor
 description: 'Note of interest: This was the play Abraham Lincoln was watching when
   he was assassinated.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3158#Our-American-Cousin
 gutenberg_issued: '2002-04-01'
 gutenberg_type: Text
 identifiers:
